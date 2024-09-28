@@ -12,7 +12,7 @@ model_path = 'basil_ginseng_classifier_model.pkl'
 
 # GUI 설정
 root = tk.Tk()
-root.title('바질 또는 인삼 분류기')
+root.title('바질 , 인삼 분류기')
 
 frame = tk.Frame(root)
 frame.pack(pady=20)
